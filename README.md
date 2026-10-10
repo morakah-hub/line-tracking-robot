@@ -29,7 +29,6 @@ We competed as part of OBK Robotics, the club I founded at OBK Secondary School 
 
 <p align="center">
   <img src="images/robot-1.jpg" alt="The line tracking robot" width="400"/>
-  <img src="images/robot-2.jpg" alt="The line tracking robot, second view" width="400"/>
 </p>
 
 ---
@@ -49,13 +48,4 @@ Not my design. Shown here for reference.
 
 <p align="center">
   <img src="images/pcb-cad-1.png" alt="Main PCB in CAD" width="600"/>
-</p>
-
----
-
-## Winning
-
-<p align="center">
-  <img src="images/win-2.jpg" alt="Competition win" width="400"/>
-  <img src="images/win-3.jpg" alt="Competition win, second photo" width="400"/>
 </p>
